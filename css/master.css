@@ -1,0 +1,101 @@
+.gambar {
+  background-color: blue;
+}
+.gambar img{
+  width: 110%;
+
+}
+
+.bayangan {
+  box-shadow: 5px 6px 10px 0 rgba(0, 0, 0, 0.14);
+}
+
+.bunder img{
+  border-radius: 50%;
+  width: 100%;
+}
+
+.kiri img {
+  width: 100%;
+}
+
+.modal-header {
+  padding: 10px;
+  margin: 0px;
+}
+
+.modal .modal-header .btn{
+  float: right;
+  margin: 6px 0;
+}
+
+.modal-footer {
+  border-top: 1px solid #e5e5e5;
+}
+
+.text-modal {
+  position: absolute;
+}
+
+.tinggi {
+  height: 10em;
+}
+@media only screen and (max-width:600px){
+  .hilang {
+    display: none;
+  }
+}
+
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 1%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+@media only screen and (max-width : 768px) {
+  .asa {
+    width: 100%;
+  }
+  .sepadan{
+    height: 235px;
+  }
+}
+
+@media only screen and (max-width : 1024px) {
+  .sepadan{
+    height: 319.58px;
+  }
+}
+
+@media only screen and (max-width : 1440px) {
+  .sepadan{
+    height: 457.5px;
+  }
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.icon-block {
+  padding: 0px 15px;
+}
+
+.full {
+  width: 100%
+}
+
