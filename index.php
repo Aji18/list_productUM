@@ -14,14 +14,7 @@
             <a href="#logo">
                 <img class="brand-logo responsive-img" src="img/logo.png" width="150px" height="100px">
             </a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li>
-                    <a class="black-text" href="#">HOME</a>
-                </li>
-                <li>
-                    <a class="black-text" href="#">PRODUCT</a>
-                </li>
-            </ul>
+
         </div>
     </nav>
     <div class="slider">
